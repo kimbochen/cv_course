@@ -7,6 +7,13 @@ verify_ssl = true
 ipykernel = "*"
 
 [packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-image = "*"
+opencv-python = "*"
+nbconvert = "*"
 
 [requires]
 python_version = "3.7"

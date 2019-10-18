@@ -1,3 +1,5 @@
 .DS_Store
 .vim
 .ipynb_checkpoints
+.venv
+references

@@ -1,6 +1,7 @@
 
 import numpy as np
 
+
 def generate_wb_mask(img, pattern, fr, fb):
     '''
     Input:
@@ -19,8 +20,9 @@ def generate_wb_mask(img, pattern, fr, fb):
     #      blue channel position. Fill 1 into green channel position       #
     #      otherwise.                                                      #
     ########################################################################
-    
-    
+
+    raw = np.float32(img.shape)
+
 
     ########################################################################
     #                                                                      #

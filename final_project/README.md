@@ -14,4 +14,4 @@ To execute the code, simply click `Run All`.
 * [Extra Camouflaged Soldier Dataset](https://drive.google.com/open?id=1lTh84ED1wYeEwdjmDn9ONSeDX43S27RU)
 
 ## Conclusion
-[](cv_meme.png)
+![](cv_meme.png)

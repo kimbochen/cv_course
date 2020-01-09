@@ -12,3 +12,6 @@ To execute the code, simply click `Run All`.
 * [CAMO Dataset](https://drive.google.com/drive/folders/1h-OqZdwkuPhBvGcVAwmh0f1NGqlH_4B6)
 * [Camouflaged Dataset](https://github.com/xfflyer/Camouflaged-Data)
 * [Extra Camouflaged Soldier Dataset](https://drive.google.com/open?id=1lTh84ED1wYeEwdjmDn9ONSeDX43S27RU)
+
+## Conclusion
+[](cv_meme.png)

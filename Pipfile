@@ -13,6 +13,8 @@ pandas = "*"
 matplotlib = "*"
 scikit-image = "*"
 opencv-python = "*"
+Pillow = ">=8.3.2"
+Pygments = ">=2.7.4"
 
 [requires]
 python_version = "3.7"
